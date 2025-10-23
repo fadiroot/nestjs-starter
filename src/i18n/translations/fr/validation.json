@@ -1,0 +1,20 @@
+{
+  "isNotEmpty": "{field} ne doit pas être vide",
+  "isString": "{field} doit être une chaîne de caractères",
+  "isEmail": "{field} doit être une adresse e-mail valide",
+  "minLength": "{field} doit contenir au moins {min} caractères",
+  "maxLength": "{field} ne doit pas dépasser {max} caractères",
+  "isNumber": "{field} doit être un nombre",
+  "isBoolean": "{field} doit être une valeur booléenne",
+  "isDate": "{field} doit être une date valide",
+  "isEnum": "{field} doit être l'une des valeurs suivantes: {values}",
+  "isInt": "{field} doit être un entier",
+  "isPositive": "{field} doit être un nombre positif",
+  "min": "{field} doit être au moins {min}",
+  "max": "{field} ne doit pas dépasser {max}",
+  "matches": "Le format de {field} est invalide",
+  "isPhoneNumber": "{field} doit être un numéro de téléphone valide",
+  "isUrl": "{field} doit être une URL valide",
+  "isUUID": "{field} doit être un UUID valide"
+}
+

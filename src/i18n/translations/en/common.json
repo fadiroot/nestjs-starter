@@ -1,0 +1,14 @@
+{
+  "success": "Success",
+  "error": "Error",
+  "notFound": "Resource not found",
+  "unauthorized": "Unauthorized access",
+  "forbidden": "Access forbidden",
+  "badRequest": "Bad request",
+  "internalServerError": "Internal server error",
+  "created": "Resource created successfully",
+  "updated": "Resource updated successfully",
+  "deleted": "Resource deleted successfully",
+  "welcome": "Welcome"
+}
+
