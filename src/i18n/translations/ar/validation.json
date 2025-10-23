@@ -1,0 +1,20 @@
+{
+  "isNotEmpty": "{field} لا يجب أن يكون فارغاً",
+  "isString": "{field} يجب أن يكون نصاً",
+  "isEmail": "{field} يجب أن يكون عنوان بريد إلكتروني صالح",
+  "minLength": "{field} يجب أن يحتوي على {min} حرفاً على الأقل",
+  "maxLength": "{field} يجب ألا يتجاوز {max} حرفاً",
+  "isNumber": "{field} يجب أن يكون رقماً",
+  "isBoolean": "{field} يجب أن يكون قيمة منطقية",
+  "isDate": "{field} يجب أن يكون تاريخاً صالحاً",
+  "isEnum": "{field} يجب أن يكون إحدى القيم التالية: {values}",
+  "isInt": "{field} يجب أن يكون رقماً صحيحاً",
+  "isPositive": "{field} يجب أن يكون رقماً موجباً",
+  "min": "{field} يجب أن يكون على الأقل {min}",
+  "max": "{field} يجب ألا يتجاوز {max}",
+  "matches": "صيغة {field} غير صالحة",
+  "isPhoneNumber": "{field} يجب أن يكون رقم هاتف صالح",
+  "isUrl": "{field} يجب أن يكون رابط URL صالح",
+  "isUUID": "{field} يجب أن يكون UUID صالح"
+}
+

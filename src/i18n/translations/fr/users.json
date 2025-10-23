@@ -1,0 +1,15 @@
+{
+  "userCreated": "Utilisateur créé avec succès",
+  "userUpdated": "Utilisateur mis à jour avec succès",
+  "userDeleted": "Utilisateur supprimé avec succès",
+  "userNotFound": "Utilisateur non trouvé",
+  "emailAlreadyExists": "L'email existe déjà",
+  "fields": {
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "password": "Mot de passe"
+  }
+}
+

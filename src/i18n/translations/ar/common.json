@@ -1,0 +1,14 @@
+{
+  "success": "نجح",
+  "error": "خطأ",
+  "notFound": "المورد غير موجود",
+  "unauthorized": "الوصول غير مصرح",
+  "forbidden": "الوصول محظور",
+  "badRequest": "طلب غير صالح",
+  "internalServerError": "خطأ في الخادم الداخلي",
+  "created": "تم إنشاء المورد بنجاح",
+  "updated": "تم تحديث المورد بنجاح",
+  "deleted": "تم حذف المورد بنجاح",
+  "welcome": "مرحباً"
+}
+

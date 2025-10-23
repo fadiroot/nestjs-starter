@@ -1,0 +1,15 @@
+{
+  "userCreated": "User created successfully",
+  "userUpdated": "User updated successfully",
+  "userDeleted": "User deleted successfully",
+  "userNotFound": "User not found",
+  "emailAlreadyExists": "Email already exists",
+  "fields": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password"
+  }
+}
+
